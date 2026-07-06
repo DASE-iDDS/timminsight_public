@@ -1,0 +1,19 @@
+# Core
+networkx
+numpy
+pandas
+pyarrow
+
+# TiMetaGraph external metadata-extraction tools
+torch
+torchvision
+ultralytics
+timm
+spacy
+opencv-python-headless
+transformers
+vaderSentiment
+keybert
+
+# (Detectron2 is optional; install separately per its platform instructions.)
+# After install: python -m spacy download en_core_web_sm
